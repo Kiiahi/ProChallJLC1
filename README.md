@@ -1,2 +1,2 @@
 # ProChallJLC1
-Repo and Deploymeny
+Repo and Deployment
